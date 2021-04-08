@@ -1,1 +1,1 @@
-# exchange-api-ve-promise-kullnarak-currency-uygulamas-
+# Currency implementation using exchange api and promise
